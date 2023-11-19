@@ -7,7 +7,7 @@
 .bgimage {
     height:100vh;
     background: url('images/20230516_142824.jpg');
-    background-size:auto 100%;
+    background-size:cover;
     position:relative;
 }
 /* text css above hero image*/
